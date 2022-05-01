@@ -1,0 +1,9 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\bin\Debug\28-4x4 Mini Puzzle.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\bin\Debug\28-4x4 Mini Puzzle.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\bin\Debug\28-4x4 Mini Puzzle.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\28-4x4 Mini Puzzle.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\_28_4x4_Mini_Puzzle.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\_28_4x4_Mini_Puzzle.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\28-4x4 Mini Puzzle.csproj.GenerateResource.Cache
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\28-4x4 Mini Puzzle.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\28-4x4 Mini Puzzle\28-4x4 Mini Puzzle\obj\Debug\28-4x4 Mini Puzzle.pdb

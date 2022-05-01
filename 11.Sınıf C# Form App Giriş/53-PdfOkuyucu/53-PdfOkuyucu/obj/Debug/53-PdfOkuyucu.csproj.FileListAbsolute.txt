@@ -1,0 +1,45 @@
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe.config
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.pdb
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csprojAssemblyReference.cache
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.ResolveComReference.cache
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Form1.resources
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Properties.Resources.resources
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.GenerateResource.cache
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.exe
+C:\Users\inan\source\repos\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\Interop.AcroPDFLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\AxInterop.AcroPDFLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\Interop.AcroPDFLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\AxInterop.AcroPDFLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.ResolveComReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\53-PdfOkuyucu.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\Interop.AcroPDFLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\bin\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\Interop.AcroPDFLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\AxInterop.AcroPDFLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.ResolveComReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\_53_PdfOkuyucu.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\53-PdfOkuyucu\53-PdfOkuyucu\obj\Debug\53-PdfOkuyucu.pdb

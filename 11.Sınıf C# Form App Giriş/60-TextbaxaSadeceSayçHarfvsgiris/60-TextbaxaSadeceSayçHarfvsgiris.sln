@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.28010.2019
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "60-TextbaxaSadeceSayıHarfvsgiris", "60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris.csproj", "{8CC86232-4A98-4C96-8C55-C901BB271576}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8CC86232-4A98-4C96-8C55-C901BB271576}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8CC86232-4A98-4C96-8C55-C901BB271576}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8CC86232-4A98-4C96-8C55-C901BB271576}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8CC86232-4A98-4C96-8C55-C901BB271576}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {012D54DB-C230-448B-ABFF-45E550F78E00}
+	EndGlobalSection
+EndGlobal

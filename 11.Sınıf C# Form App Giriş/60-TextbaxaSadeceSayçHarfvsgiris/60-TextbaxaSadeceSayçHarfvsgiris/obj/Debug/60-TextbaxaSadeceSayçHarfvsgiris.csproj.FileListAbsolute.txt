@@ -1,0 +1,20 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\_60_TextbaxaSadeceSayıHarfvsgiris.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\_60_TextbaxaSadeceSayıHarfvsgiris.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\bin\Debug\60-TextbaxaSadeceSayıHarfvsgiris.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\_60_TextbaxaSadeceSayıHarfvsgiris.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\_60_TextbaxaSadeceSayıHarfvsgiris.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\60-TextbaxaSadeceSayıHarfvsgiris\60-TextbaxaSadeceSayıHarfvsgiris\obj\Debug\60-TextbaxaSadeceSayıHarfvsgiris.pdb

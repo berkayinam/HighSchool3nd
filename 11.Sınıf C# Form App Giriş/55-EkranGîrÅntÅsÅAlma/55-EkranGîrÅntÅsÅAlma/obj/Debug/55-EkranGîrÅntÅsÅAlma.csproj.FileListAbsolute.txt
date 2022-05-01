@@ -1,0 +1,28 @@
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe.config
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.pdb
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Form1.resources
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Properties.Resources.resources
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.GenerateResource.cache
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.CoreCompileInputs.cache
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.exe
+C:\Users\inan\source\repos\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\bin\Debug\55-EkranGörüntüsüAlma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\_55_EkranGörüntüsüAlma.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\55-EkranGörüntüsüAlma\55-EkranGörüntüsüAlma\obj\Debug\55-EkranGörüntüsüAlma.pdb

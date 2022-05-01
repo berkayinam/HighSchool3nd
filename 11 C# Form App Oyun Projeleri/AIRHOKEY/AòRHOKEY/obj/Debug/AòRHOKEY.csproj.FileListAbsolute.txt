@@ -1,0 +1,33 @@
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.exe.config
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.pdb
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csprojAssemblyReference.cache
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.Ayarlar.resources
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.Properties.Resources.resources
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.GenerateResource.cache
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.pdb
+C:\Users\BAHADIR\source\repos\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.AnaForm.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\bin\Debug\AİRHOKEY.exe.config
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\bin\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\bin\Debug\AİRHOKEY.pdb
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.AnaForm.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.Ayarlar.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\Desktop\AİRHOKEY SON YAPTIĞIM\AİRHOKEY\obj\Debug\AİRHOKEY.pdb
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.exe.config
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\bin\Debug\AİRHOKEY.pdb
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.AnaForm.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.Ayarlar.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.exe
+C:\Users\BAHADIR\Desktop\AİRHOKEY\AİRHOKEY\obj\Debug\AİRHOKEY.pdb

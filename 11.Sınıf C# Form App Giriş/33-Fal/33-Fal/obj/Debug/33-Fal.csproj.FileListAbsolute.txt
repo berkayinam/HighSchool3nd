@@ -1,0 +1,6 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\bin\Debug\33-Fal.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\bin\Debug\33-Fal.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\bin\Debug\33-Fal.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\obj\Debug\33-Fal.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\obj\Debug\33-Fal.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\33-Fal\33-Fal\obj\Debug\33-Fal.pdb

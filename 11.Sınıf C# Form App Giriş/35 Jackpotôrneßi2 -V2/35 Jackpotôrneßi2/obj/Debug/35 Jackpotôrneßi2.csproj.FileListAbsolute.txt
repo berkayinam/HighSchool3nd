@@ -1,0 +1,17 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\obj\Debug\_35_JackpotÖrneği2.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\obj\Debug\_35_JackpotÖrneği2.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.csproj.GenerateResource.Cache
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\bin\Debug\35 JackpotÖrneği2.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\_35_JackpotÖrneği2.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\_35_JackpotÖrneği2.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\35 JackpotÖrneği2 -V2\35 JackpotÖrneği2\obj\Debug\35 JackpotÖrneği2.csproj.GenerateResource.Cache

@@ -1,0 +1,90 @@
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\bin\Debug\E-Okul.exe.config
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\bin\Debug\E-Okul.exe
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\bin\Debug\E-Okul.pdb
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E-Okul.csprojAssemblyReference.cache
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Form1.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Giris.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Kayit.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Properties.Resources.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E-Okul.csproj.GenerateResource.cache
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E-Okul.exe
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E-Okul.pdb
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Ders.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Menu.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Not.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Guncelle.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Devamsızlık.resources
+C:\Users\LAB4_\source\repos\E-Okul\E-Okul\obj\Debug\E_Okul.Karne.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.exe.config
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.exe
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.pdb
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csprojAssemblyReference.cache
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Ders.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Devamsızlık.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Form1.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Giris.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Guncelle.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Karne.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Kayit.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Menu.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Not.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Properties.Resources.resources
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.GenerateResource.cache
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.exe
+C:\Users\Helin\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.exe.config
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\bin\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Ders.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Devamsızlık.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Form1.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Giris.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Guncelle.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Karne.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Kayit.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Menu.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Not.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E_Okul.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\E-Okul (CÜNEY)\E-Okul\obj\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.exe.config
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Ders.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Devamsızlık.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Form1.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Giris.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Guncelle.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Karne.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Kayit.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Menu.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Not.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\bin\Debug\E-Okul.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Ders.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Devamsızlık.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Giris.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Guncelle.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Karne.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Kayit.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Menu.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Not.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E_Okul.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11NTP\E-Okul (GÜNEY)\E-Okul\obj\Debug\E-Okul.pdb

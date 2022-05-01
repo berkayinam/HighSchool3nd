@@ -1,0 +1,6 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\bin\Debug\31-Diziler.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\bin\Debug\31-Diziler.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\bin\Debug\31-Diziler.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\obj\Debug\31-Diziler.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\obj\Debug\31-Diziler.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\31-Diziler\31-Diziler\obj\Debug\31-Diziler.pdb

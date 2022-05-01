@@ -1,0 +1,40 @@
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\LAB4_\source\repos\WindowsFormsApp9\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\bin\Debug\WindowsFormsApp9.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\Sayı Oyunu\WindowsFormsApp9\obj\Debug\WindowsFormsApp9.pdb

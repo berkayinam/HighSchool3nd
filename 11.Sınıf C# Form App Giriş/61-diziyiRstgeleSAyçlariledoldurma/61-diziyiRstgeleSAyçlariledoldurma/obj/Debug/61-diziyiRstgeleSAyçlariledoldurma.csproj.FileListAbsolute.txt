@@ -1,0 +1,20 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\_61_diziyiRstgeleSAyılariledoldurma.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\_61_diziyiRstgeleSAyılariledoldurma.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\bin\Debug\61-diziyiRstgeleSAyılariledoldurma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\_61_diziyiRstgeleSAyılariledoldurma.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\_61_diziyiRstgeleSAyılariledoldurma.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\61-diziyiRstgeleSAyılariledoldurma\61-diziyiRstgeleSAyılariledoldurma\obj\Debug\61-diziyiRstgeleSAyılariledoldurma.pdb

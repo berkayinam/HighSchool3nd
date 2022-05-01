@@ -1,0 +1,19 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\bin\Debug\47-piyano.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\47-piyano.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\_47_piyano.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\_47_piyano.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\47-piyano.csproj.GenerateResource.Cache
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\bin\Debug\47-piyano.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\bin\Debug\47-piyano.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\47-piyano.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\47-piyano\47-piyano\obj\Debug\47-piyano.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\bin\Debug\47-piyano.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\bin\Debug\47-piyano.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\bin\Debug\47-piyano.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\47-piyano.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\_47_piyano.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\_47_piyano.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\47-piyano.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\47-piyano.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\47-piyano.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\47-piyano\47-piyano\obj\Debug\47-piyano.pdb

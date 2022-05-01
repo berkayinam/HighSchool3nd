@@ -1,0 +1,50 @@
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\LAB4_\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\BAHADIR  ÖDEV\C# KODLARI\11KOD\ButonlardanPiramit\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\bahad\Desktop\11NTP\C#\ButonlardanPiramit\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

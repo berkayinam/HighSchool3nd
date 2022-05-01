@@ -1,0 +1,28 @@
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe.config
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.pdb
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Form1.resources
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Properties.Resources.resources
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.GenerateResource.cache
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.exe
+C:\Users\inan\source\repos\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\bin\Debug\56-BenzersizStringOlusturma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\_56_BenzersizStringOlusturma.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\56-BenzersizStringOlusturma\56-BenzersizStringOlusturma\obj\Debug\56-BenzersizStringOlusturma.pdb

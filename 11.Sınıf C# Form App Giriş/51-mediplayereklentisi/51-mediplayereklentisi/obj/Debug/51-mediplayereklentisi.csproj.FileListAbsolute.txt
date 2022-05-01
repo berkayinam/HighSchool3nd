@@ -1,0 +1,45 @@
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe.config
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.pdb
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csprojAssemblyReference.cache
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.ResolveComReference.cache
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Form1.resources
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Properties.Resources.resources
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.GenerateResource.cache
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.CoreCompileInputs.cache
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.exe
+C:\Users\inan\source\repos\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\Interop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\AxInterop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.ResolveComReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\Interop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\51-mediplayereklentisi.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\Interop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\Interop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.ResolveComReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\_51_mediplayereklentisi.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51-mediplayereklentisi\51-mediplayereklentisi\obj\Debug\51-mediplayereklentisi.pdb

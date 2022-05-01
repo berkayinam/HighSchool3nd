@@ -1,0 +1,12 @@
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\bin\Debug\22-Asal.exe.config
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\bin\Debug\22-Asal.exe
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\bin\Debug\22-Asal.pdb
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\22-Asal.csprojResolveAssemblyReference.cache
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\_22_Asal.Form1.resources
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\_22_Asal.Properties.Resources.resources
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\22-Asal.csproj.GenerateResource.Cache
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\22-Asal.exe
+D:\2018-2019 SINAVLAR\22-Asal\22-Asal\obj\Debug\22-Asal.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\22-Asal\22-Asal\bin\Debug\22-Asal.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\22-Asal\22-Asal\obj\Debug\22-Asal.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\22-Asal\22-Asal\obj\Debug\22-Asal.pdb

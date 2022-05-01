@@ -1,0 +1,20 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\_57_contextmenustrip.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\_57_contextmenustrip.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\bin\Debug\57-contextmenustrip.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\_57_contextmenustrip.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\_57_contextmenustrip.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\57-contextmenustrip\57-contextmenustrip\obj\Debug\57-contextmenustrip.pdb

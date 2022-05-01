@@ -1,0 +1,30 @@
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\bin\Debug\KullaniciGirisi.exe.config
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\bin\Debug\KullaniciGirisi.exe
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\bin\Debug\KullaniciGirisi.pdb
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.csprojAssemblyReference.cache
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Giris.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Properties.Resources.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.csproj.GenerateResource.cache
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.csproj.CoreCompileInputs.cache
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.exe
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.pdb
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Kayıt.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Kul_Gir.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.AnaForm.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Ders_Ekle.resources
+C:\Users\LAB4_\source\repos\KullaniciGirisi\KullaniciGirisi\obj\Debug\KullaniciGirisi.Not_Ekle.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\bin\Debug\KullaniciGirisi.exe.config
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\bin\Debug\KullaniciGirisi.exe
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\bin\Debug\KullaniciGirisi.pdb
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.AnaForm.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Ders_Ekle.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Giris.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Kayıt.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Kul_Gir.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Not_Ekle.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.exe
+C:\Users\BAHADIR\Desktop\KullaniciGirisi bahadır\KullaniciGirisi\obj\Debug\KullaniciGirisi.pdb

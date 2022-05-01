@@ -1,0 +1,18 @@
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.exe.config
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.exe
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.pdb
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.csprojResolveAssemblyReference.cache
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\_23_SayıBulmaOyunu.Form1.resources
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\_23_SayıBulmaOyunu.Properties.Resources.resources
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.csproj.GenerateResource.Cache
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.exe
+D:\2018-2019 SINAVLAR\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\bin\Debug\23-SayıBulmaOyunu.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.csprojResolveAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\_23_SayıBulmaOyunu.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\_23_SayıBulmaOyunu.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\23-SayıBulmaOyunu\23-SayıBulmaOyunu\obj\Debug\23-SayıBulmaOyunu.csproj.GenerateResource.Cache

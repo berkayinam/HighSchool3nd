@@ -1,0 +1,20 @@
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csprojAssemblyReference.cache
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
+C:\Users\BAHADIR\source\repos\Adam Asmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe.config
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\bin\Debug\Adam Asmaca.exe
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\bin\Debug\Adam Asmaca.pdb
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Form1.resources
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam_Asmaca.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam Asmaca.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam Asmaca.exe
+C:\Users\BAHADIR\Desktop\C#\AdamAsmaca\Adam Asmaca\obj\Debug\Adam Asmaca.pdb

@@ -1,0 +1,30 @@
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\bin\Debug\Interop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\Interop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.ResolveComReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\_51.mediaplayer.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\_51.mediaplayer.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\bin\Debug\51.mediaplayer.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\bin\Debug\Interop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\Interop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\AxInterop.WMPLib.dll
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.ResolveComReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\_51.mediaplayer.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\_51.mediaplayer.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\51.mediaplayer\51.mediaplayer\obj\Debug\51.mediaplayer.pdb

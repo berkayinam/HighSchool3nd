@@ -1,0 +1,29 @@
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe.config
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.pdb
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Form1.resources
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Properties.Resources.resources
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.GenerateResource.cache
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.CoreCompileInputs.cache
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.exe
+C:\Users\inan\source\repos\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe.config
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.pdb
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csprojAssemblyReference.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Form1.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Properties.Resources.resources
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.GenerateResource.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.CoreCompileInputs.cache
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.exe
+D:\00-2018-2019 NTP Ders Uygulamaları\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe.config
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\bin\Debug\54-UygulamaAçma.pdb
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Form1.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\_54_UygulamaAçma.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.exe
+C:\Users\BAHADIR\Desktop\ÖRNEKLER\54-UygulamaAçma\54-UygulamaAçma\obj\Debug\54-UygulamaAçma.pdb

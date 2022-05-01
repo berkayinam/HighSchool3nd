@@ -1,0 +1,7 @@
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\bin\Debug\Kredi-Kart-Denemesi.exe.config
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\bin\Debug\Kredi-Kart-Denemesi.exe
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\bin\Debug\Kredi-Kart-Denemesi.pdb
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\obj\Debug\Kredi-Kart-Denemesi.csprojResolveAssemblyReference.cache
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\obj\Debug\Kredi-Kart-Denemesi.csproj.CoreCompileInputs.cache
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\obj\Debug\Kredi-Kart-Denemesi.exe
+C:\Users\Guney Turkyilmaz\Desktop\.Visual Studio\Kredi-Kart-Denemesi\Kredi-Kart-Denemesi\obj\Debug\Kredi-Kart-Denemesi.pdb

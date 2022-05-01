@@ -1,0 +1,56 @@
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe.config
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\bin\Debug\ntpCozum.pdb
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csprojAssemblyReference.cache
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Form1.resources
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Properties.Resources.resources
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_ekle.resources
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.GenerateResource.cache
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.CoreCompileInputs.cache
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.exe
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.pdb
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sec.resources
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.satis_formu.resources
+C:\Users\Lab-3\source\repos\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sat.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe.config
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\bin\Debug\ntpCozum.pdb
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Form1.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.satis_formu.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_ekle.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sat.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sec.resources
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\ntpCozum\ntpCozum\obj\Debug\ntpCozum.pdb
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe.config
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\bin\Debug\ntpCozum.pdb
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Form1.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.satis_formu.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_ekle.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sat.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sec.resources
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\Yeni klasör\ntpCozum\ntpCozum\obj\Debug\ntpCozum.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe.config
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\bin\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\bin\Debug\ntpCozum.pdb
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csprojAssemblyReference.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Form1.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.Properties.Resources.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.satis_formu.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_ekle.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sat.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.urun_sec.resources
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.GenerateResource.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.csproj.CoreCompileInputs.cache
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.exe
+C:\Users\BAHADIR\Desktop\Bahadır Tilki\C#\ntpCozum\ntpCozum\obj\Debug\ntpCozum.pdb
